@@ -4,7 +4,7 @@
 
 [**Open the app →**](https://jinxiao-wan.github.io/Raspberry-Pi-Children-s-Garbage-Sorting-Learning-System/) · [Project process](docs/development-process.md) · [Architecture](docs/architecture.md) · [Original WeChat source](legacy/wechat/) · [Source audit](docs/source-audit.md)
 
-> The Pages link becomes live after the repository owner enables **Settings → Pages → Source: GitHub Actions**. The deployment workflow is included.
+> **The app is published on GitHub Pages.** Open the link above to try it in your browser.
 
 ## Rebuilt app preview
 
