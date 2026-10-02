@@ -6,6 +6,16 @@
 
 > The Pages link becomes live after the repository owner enables **Settings → Pages → Source: GitHub Actions**. The deployment workflow is included.
 
+## Rebuilt app preview
+
+![Little Sorters browser app](docs/previews/app-desktop.jpg)
+
+| Phone interface | Photo-to-category walkthrough |
+|---|---|
+| <img src="docs/previews/app-mobile.jpg" width="280" alt="Mobile app screenshot"> | ![Recorded-example walkthrough](docs/previews/photo-process.gif) |
+
+These are browser captures of the 2026 reconstruction. The animated example demonstrates the recorded photo workflow, not live inference.
+
 ## Try the app
 
 1. **Play & learn:** start an eight-object challenge, drag an object into a bin or tap the bin. Correct answers earn 10 points; wrong answers lose 10. Read the explanation before moving on. Your best score stays on your device.
