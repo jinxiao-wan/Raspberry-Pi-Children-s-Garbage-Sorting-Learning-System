@@ -1,0 +1,520 @@
+[
+  {
+    "source": "README.md",
+    "destination": "legacy/wechat/README.md",
+    "source_sha256": "99138a5c9d4f4b122fb89f2a694320e5bbc715c80f870f3900af8c26b65d2400",
+    "published_sha256": "8c03114c7855fbc1b13f10bc77867c57f63e0f328bfc9ba850302e8674387cdd",
+    "sanitized": true
+  },
+  {
+    "source": "cloudfunctions/baiduAccessToken/index.js",
+    "destination": "legacy/wechat/cloudfunctions/baiduAccessToken/index.js",
+    "source_sha256": "3492143a6e30fd9fa522ce0c2749af5522c98c548d24c2bd35d2beee50b63541",
+    "published_sha256": "fef7273ac541529b30d61e22b6c18d627ac0f4c8e1303c53e619d28f8f4cf44c",
+    "sanitized": true
+  },
+  {
+    "source": "cloudfunctions/baiduAccessToken/package.json",
+    "destination": "legacy/wechat/cloudfunctions/baiduAccessToken/package.json",
+    "source_sha256": "3cf8971f7a9a177ca27dd12e29ffc1646341b20f646ab320329a20084c6c12e9",
+    "published_sha256": "3cf8971f7a9a177ca27dd12e29ffc1646341b20f646ab320329a20084c6c12e9",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/api.js",
+    "destination": "legacy/wechat/miniprogram/api.js",
+    "source_sha256": "3aa94e95e3f710ecdb0618b06c97fa8c787f16d7196fc07d147abcc63396a232",
+    "published_sha256": "3aa94e95e3f710ecdb0618b06c97fa8c787f16d7196fc07d147abcc63396a232",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/app.js",
+    "destination": "legacy/wechat/miniprogram/app.js",
+    "source_sha256": "4780e6292af4254ab338612a02f021b22a4d15e92ae4fc8cf911d3c388858b9f",
+    "published_sha256": "3f2e3e91cec9f47017cacae4986e2987f9c0c1e7e1d551472dd505e94efab536",
+    "sanitized": true
+  },
+  {
+    "source": "miniprogram/app.json",
+    "destination": "legacy/wechat/miniprogram/app.json",
+    "source_sha256": "5893a05aa2f0c56f15bca937d67a5dde6354d485e7e8ce40495985e62e9c0f9b",
+    "published_sha256": "5893a05aa2f0c56f15bca937d67a5dde6354d485e7e8ce40495985e62e9c0f9b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/app.wxss",
+    "destination": "legacy/wechat/miniprogram/app.wxss",
+    "source_sha256": "a89265e42ef4bd356d112522d051d4bac98e1e092c6668b965cf2e6d773635a0",
+    "published_sha256": "a89265e42ef4bd356d112522d051d4bac98e1e092c6668b965cf2e6d773635a0",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/animation.wxss",
+    "destination": "legacy/wechat/miniprogram/colorui/animation.wxss",
+    "source_sha256": "448de0a2e1712282647d639d3e3eeb7dac14e8e6359c85c7cae37771b000d3dc",
+    "published_sha256": "448de0a2e1712282647d639d3e3eeb7dac14e8e6359c85c7cae37771b000d3dc",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/components/cu-custom.js",
+    "destination": "legacy/wechat/miniprogram/colorui/components/cu-custom.js",
+    "source_sha256": "60cefba1ddc076c0e34b7be05563860694fb177a309e7586ff5a0475fdaacacd",
+    "published_sha256": "60cefba1ddc076c0e34b7be05563860694fb177a309e7586ff5a0475fdaacacd",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/components/cu-custom.json",
+    "destination": "legacy/wechat/miniprogram/colorui/components/cu-custom.json",
+    "source_sha256": "6e72dadc3680e796aee6cd518838aed27738a42c14bf6b1e9a9067044115c815",
+    "published_sha256": "6e72dadc3680e796aee6cd518838aed27738a42c14bf6b1e9a9067044115c815",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/components/cu-custom.wxml",
+    "destination": "legacy/wechat/miniprogram/colorui/components/cu-custom.wxml",
+    "source_sha256": "9ae8ff84efa4f19282429bfa644a2ae8f87ead3e6ef33fd87c5ee0dc765216b6",
+    "published_sha256": "9ae8ff84efa4f19282429bfa644a2ae8f87ead3e6ef33fd87c5ee0dc765216b6",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/components/cu-custom.wxss",
+    "destination": "legacy/wechat/miniprogram/colorui/components/cu-custom.wxss",
+    "source_sha256": "7148ce4a1c1f21ca6b834a30c2ea933395aebb577f13badd3ccc1a42baf90e28",
+    "published_sha256": "7148ce4a1c1f21ca6b834a30c2ea933395aebb577f13badd3ccc1a42baf90e28",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/icon.wxss",
+    "destination": "legacy/wechat/miniprogram/colorui/icon.wxss",
+    "source_sha256": "f439e3794d0c35edffa4dd03b21f3303f2537be49837b42494ab6302f312862e",
+    "published_sha256": "f439e3794d0c35edffa4dd03b21f3303f2537be49837b42494ab6302f312862e",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/colorui/main.wxss",
+    "destination": "legacy/wechat/miniprogram/colorui/main.wxss",
+    "source_sha256": "7a7e7da9605e82be434b08f0e68d4b257da632df8c0d7d08aed61c3cdab35709",
+    "published_sha256": "7a7e7da9605e82be434b08f0e68d4b257da632df8c0d7d08aed61c3cdab35709",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/HazardouAwaste.jpg",
+    "destination": "legacy/wechat/miniprogram/images/HazardouAwaste.jpg",
+    "source_sha256": "72aefb66fe073e7b9566dd2d420757a367bfe07638bae3f05b6e68155968878b",
+    "published_sha256": "72aefb66fe073e7b9566dd2d420757a367bfe07638bae3f05b6e68155968878b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/HouseholdfoodWaste.jpg",
+    "destination": "legacy/wechat/miniprogram/images/HouseholdfoodWaste.jpg",
+    "source_sha256": "00f5b0f0d183997965b6e739317f14ed231d33ff1d0247030be10bfcd7a213ae",
+    "published_sha256": "00f5b0f0d183997965b6e739317f14ed231d33ff1d0247030be10bfcd7a213ae",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/RecycleableWaste.jpg",
+    "destination": "legacy/wechat/miniprogram/images/RecycleableWaste.jpg",
+    "source_sha256": "ec69e8013e69cbde8deda49565c39a3dbbb14c2e65c827679c7378f4c43d8a47",
+    "published_sha256": "ec69e8013e69cbde8deda49565c39a3dbbb14c2e65c827679c7378f4c43d8a47",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/ResidualWaste.png",
+    "destination": "legacy/wechat/miniprogram/images/ResidualWaste.png",
+    "source_sha256": "6e06dc50327c529fdfe970c83c48d98b52d237ae8b01fbfe79c1f8c72b10ff9b",
+    "published_sha256": "6e06dc50327c529fdfe970c83c48d98b52d237ae8b01fbfe79c1f8c72b10ff9b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/ai-chat.png",
+    "destination": "legacy/wechat/miniprogram/images/ai-chat.png",
+    "source_sha256": "a00a85702bc4954a1130359efe750e7cbd9d657c34fa5eb75706a75434aeceef",
+    "published_sha256": "a00a85702bc4954a1130359efe750e7cbd9d657c34fa5eb75706a75434aeceef",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/game.png",
+    "destination": "legacy/wechat/miniprogram/images/game.png",
+    "source_sha256": "077059bf04543bfd9bb6040e33ee2c68aa51bb77a0b04cfe7b04d7e7fc8acf84",
+    "published_sha256": "077059bf04543bfd9bb6040e33ee2c68aa51bb77a0b04cfe7b04d7e7fc8acf84",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/icon_sort.png",
+    "destination": "legacy/wechat/miniprogram/images/icon_sort.png",
+    "source_sha256": "192052d93ff46f771374a337990273129dfc8055ad5a6cd200cc358227217f0c",
+    "published_sha256": "192052d93ff46f771374a337990273129dfc8055ad5a6cd200cc358227217f0c",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/icon_sort_default.png",
+    "destination": "legacy/wechat/miniprogram/images/icon_sort_default.png",
+    "source_sha256": "f3cfe7cecc4ddc68b3dfdd499f33b974db815ad056f2211e161cc36ea2da6e90",
+    "published_sha256": "f3cfe7cecc4ddc68b3dfdd499f33b974db815ad056f2211e161cc36ea2da6e90",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/no.png",
+    "destination": "legacy/wechat/miniprogram/images/no.png",
+    "source_sha256": "a8731c05ffa5e3662f23ea5ae45308320413b329045b054995759a9603853645",
+    "published_sha256": "a8731c05ffa5e3662f23ea5ae45308320413b329045b054995759a9603853645",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/ok.png",
+    "destination": "legacy/wechat/miniprogram/images/ok.png",
+    "source_sha256": "fa5bf5f43f54398504e2f4fda9d47b48521610338af91fdf0cda1d9b3ae406fc",
+    "published_sha256": "fa5bf5f43f54398504e2f4fda9d47b48521610338af91fdf0cda1d9b3ae406fc",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/paizhao.png",
+    "destination": "legacy/wechat/miniprogram/images/paizhao.png",
+    "source_sha256": "9ee5875991738e40b6220974446df4f6cf56e7f10ca85e894f06df21ca6bd33d",
+    "published_sha256": "9ee5875991738e40b6220974446df4f6cf56e7f10ca85e894f06df21ca6bd33d",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/search_defaut.png",
+    "destination": "legacy/wechat/miniprogram/images/search_defaut.png",
+    "source_sha256": "2efc906bd355a039e3942154b981da1d121e72cef82e9c29685c0b58cf307a6a",
+    "published_sha256": "2efc906bd355a039e3942154b981da1d121e72cef82e9c29685c0b58cf307a6a",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/search_select.png",
+    "destination": "legacy/wechat/miniprogram/images/search_select.png",
+    "source_sha256": "01da8df1ced010ac4f1a61407b408c04f16fd10f956c27f86f6324de0d6dda68",
+    "published_sha256": "01da8df1ced010ac4f1a61407b408c04f16fd10f956c27f86f6324de0d6dda68",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech.png",
+    "destination": "legacy/wechat/miniprogram/images/speech.png",
+    "source_sha256": "47e339aa6e73c76e1a96635097049052c17e703c2ddba64adaf784d6cd7965a3",
+    "published_sha256": "47e339aa6e73c76e1a96635097049052c17e703c2ddba64adaf784d6cd7965a3",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_1.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_1.png",
+    "source_sha256": "84675200c6f9145ac937b449c9257cf4a9b0ced32f7b34cb3d96f94a0edac127",
+    "published_sha256": "84675200c6f9145ac937b449c9257cf4a9b0ced32f7b34cb3d96f94a0edac127",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_2.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_2.png",
+    "source_sha256": "1a973977de8472d0db7c26a659e5e9a134f7b1e41fd3ca7a9d50928655bf83d0",
+    "published_sha256": "1a973977de8472d0db7c26a659e5e9a134f7b1e41fd3ca7a9d50928655bf83d0",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_3.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_3.png",
+    "source_sha256": "7cfb81850645cc6554721832be1df402275101464916fca06fa5043575e5af80",
+    "published_sha256": "7cfb81850645cc6554721832be1df402275101464916fca06fa5043575e5af80",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_4.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_4.png",
+    "source_sha256": "cde8e10781f2f35b4698ae97748c7a631d338c1eabd74d4bd60ac85fb0699ef7",
+    "published_sha256": "cde8e10781f2f35b4698ae97748c7a631d338c1eabd74d4bd60ac85fb0699ef7",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_5.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_5.png",
+    "source_sha256": "1def8f37ded36d725b424e1fadd9926f79ffd2a6933422bc37919e5869fc63ec",
+    "published_sha256": "1def8f37ded36d725b424e1fadd9926f79ffd2a6933422bc37919e5869fc63ec",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_5.svg",
+    "destination": "legacy/wechat/miniprogram/images/speech_5.svg",
+    "source_sha256": "17ea6b194ea11085fd36275420b09541644904eff46ce8b0a9db979920f79b02",
+    "published_sha256": "17ea6b194ea11085fd36275420b09541644904eff46ce8b0a9db979920f79b02",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/images/speech_icon_128.png",
+    "destination": "legacy/wechat/miniprogram/images/speech_icon_128.png",
+    "source_sha256": "020a78874b317c2447c7e883fc4217f3372fe6a98a85479d153d55219701a3e3",
+    "published_sha256": "020a78874b317c2447c7e883fc4217f3372fe6a98a85479d153d55219701a3e3",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/camera/camera.js",
+    "destination": "legacy/wechat/miniprogram/pages/ai/camera/camera.js",
+    "source_sha256": "12f429a8d0b1b17fbc260b1c797cd47f72cf6656202e6e2d09a3447ead015613",
+    "published_sha256": "12f429a8d0b1b17fbc260b1c797cd47f72cf6656202e6e2d09a3447ead015613",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/camera/camera.json",
+    "destination": "legacy/wechat/miniprogram/pages/ai/camera/camera.json",
+    "source_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "published_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/camera/camera.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/ai/camera/camera.wxml",
+    "source_sha256": "5e363e1d967fee4deaf7f125e24db2a5c92cc87189a583e843cc46b7cd35fa47",
+    "published_sha256": "5e363e1d967fee4deaf7f125e24db2a5c92cc87189a583e843cc46b7cd35fa47",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/camera/camera.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/ai/camera/camera.wxss",
+    "source_sha256": "f622710383049665889398b8ab44c3dfeb8ca1f53cb5bea92aba6d975a5a8d7f",
+    "published_sha256": "f622710383049665889398b8ab44c3dfeb8ca1f53cb5bea92aba6d975a5a8d7f",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/index.js",
+    "destination": "legacy/wechat/miniprogram/pages/ai/index.js",
+    "source_sha256": "4cac91545ce95b48c4d0f2499e6653262a5f3ae96e0d9eb87bfafbaf816e89be",
+    "published_sha256": "4cac91545ce95b48c4d0f2499e6653262a5f3ae96e0d9eb87bfafbaf816e89be",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/index.json",
+    "destination": "legacy/wechat/miniprogram/pages/ai/index.json",
+    "source_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "published_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/index.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/ai/index.wxml",
+    "source_sha256": "4f3c5a324ab9adb3745808f2bacdabbb41a25b4a25ca0eab0267e534e374d68e",
+    "published_sha256": "4f3c5a324ab9adb3745808f2bacdabbb41a25b4a25ca0eab0267e534e374d68e",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/index.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/ai/index.wxss",
+    "source_sha256": "561e2efbc06332a9355c4a426d9281420242a812838184f056999030276a4d8d",
+    "published_sha256": "561e2efbc06332a9355c4a426d9281420242a812838184f056999030276a4d8d",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/search.js",
+    "destination": "legacy/wechat/miniprogram/pages/ai/search.js",
+    "source_sha256": "1bc9a863feebb7caed8cfaae4e8736c2843e065f3be7008b5f820e0735cfd4bf",
+    "published_sha256": "1bc9a863feebb7caed8cfaae4e8736c2843e065f3be7008b5f820e0735cfd4bf",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/search.json",
+    "destination": "legacy/wechat/miniprogram/pages/ai/search.json",
+    "source_sha256": "0aafab1029b02ab7db47f4caa8ec1dd83f9cffa6854bfc2c0f60cceb2e96a65e",
+    "published_sha256": "0aafab1029b02ab7db47f4caa8ec1dd83f9cffa6854bfc2c0f60cceb2e96a65e",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/search.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/ai/search.wxml",
+    "source_sha256": "49f3502b0e5ebd88b9a3dfd9f5ec9c091b568250b36fb2756794c8b6b3be4b41",
+    "published_sha256": "49f3502b0e5ebd88b9a3dfd9f5ec9c091b568250b36fb2756794c8b6b3be4b41",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/ai/search.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/ai/search.wxss",
+    "source_sha256": "d7cc5a046e6684316ed6bea9f7ef1c98a6607899e37492854d0b515ccf76b8ee",
+    "published_sha256": "d7cc5a046e6684316ed6bea9f7ef1c98a6607899e37492854d0b515ccf76b8ee",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/game/index.js",
+    "destination": "legacy/wechat/miniprogram/pages/game/index.js",
+    "source_sha256": "70888223b9781cccd78bc84a13219b6f60c53bd68c8d2afe9aa7bcccd2ea70ab",
+    "published_sha256": "70888223b9781cccd78bc84a13219b6f60c53bd68c8d2afe9aa7bcccd2ea70ab",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/game/index.json",
+    "destination": "legacy/wechat/miniprogram/pages/game/index.json",
+    "source_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "published_sha256": "77c9ba17080c95ba2079f160869e85e7061448743859416db50e562d7a79f26b",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/game/index.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/game/index.wxml",
+    "source_sha256": "5f1d3d70937adf07b15d4c422eb9915ba5ee9df46e55be993f0bab9c7f9b06f3",
+    "published_sha256": "5f1d3d70937adf07b15d4c422eb9915ba5ee9df46e55be993f0bab9c7f9b06f3",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/game/index.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/game/index.wxss",
+    "source_sha256": "a6ff01d6be751363552fc80ace76ce4f91fbcbc629c8bd767e4e6c7d1c7535bf",
+    "published_sha256": "a6ff01d6be751363552fc80ace76ce4f91fbcbc629c8bd767e4e6c7d1c7535bf",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/detail/index.js",
+    "destination": "legacy/wechat/miniprogram/pages/sort/detail/index.js",
+    "source_sha256": "a9f65c8d83c90cce4a66fd8333074db3cc1f384197e2a1aa67714960525be293",
+    "published_sha256": "a9f65c8d83c90cce4a66fd8333074db3cc1f384197e2a1aa67714960525be293",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/detail/index.json",
+    "destination": "legacy/wechat/miniprogram/pages/sort/detail/index.json",
+    "source_sha256": "5a10874de9aea4575783bfb81e63dfa7c65dbd6ac102104405a2d9fd8aceaeab",
+    "published_sha256": "5a10874de9aea4575783bfb81e63dfa7c65dbd6ac102104405a2d9fd8aceaeab",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/detail/index.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/sort/detail/index.wxml",
+    "source_sha256": "81d53c6a0858af3e3791528022741ddb00bb13e69409b9f47300c611afc97367",
+    "published_sha256": "81d53c6a0858af3e3791528022741ddb00bb13e69409b9f47300c611afc97367",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/detail/index.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/sort/detail/index.wxss",
+    "source_sha256": "24e35be550cccae9ad538dbe83d8fa600e01c815e7b26368f46eb482152d3cb1",
+    "published_sha256": "24e35be550cccae9ad538dbe83d8fa600e01c815e7b26368f46eb482152d3cb1",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/sort.js",
+    "destination": "legacy/wechat/miniprogram/pages/sort/sort.js",
+    "source_sha256": "4b6bcf760709b22722c3ddb75f81e3356afef346c6be41379bfaae987e1bc305",
+    "published_sha256": "4b6bcf760709b22722c3ddb75f81e3356afef346c6be41379bfaae987e1bc305",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/sort.wxml",
+    "destination": "legacy/wechat/miniprogram/pages/sort/sort.wxml",
+    "source_sha256": "582d524916fea2edfe9c19eabf17403c9043bd507583bd467e195c6a08791643",
+    "published_sha256": "582d524916fea2edfe9c19eabf17403c9043bd507583bd467e195c6a08791643",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/pages/sort/sort.wxss",
+    "destination": "legacy/wechat/miniprogram/pages/sort/sort.wxss",
+    "source_sha256": "4de1cb434d69e456f5f780c561d40e697c383bfb97a0e41aecd46921b74ff5d6",
+    "published_sha256": "4de1cb434d69e456f5f780c561d40e697c383bfb97a0e41aecd46921b74ff5d6",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/sitemap.json",
+    "destination": "legacy/wechat/miniprogram/sitemap.json",
+    "source_sha256": "2812d3c18f15b8cca2b70e3001514c315daaa1f888f60295d8d8a55d16a69faf",
+    "published_sha256": "2812d3c18f15b8cca2b70e3001514c315daaa1f888f60295d8d8a55d16a69faf",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/style/guide.wxss",
+    "destination": "legacy/wechat/miniprogram/style/guide.wxss",
+    "source_sha256": "2aff81f9f688fc27109d24f8cd138bf1e14b479049cfb182b6c91fa087c519fa",
+    "published_sha256": "2aff81f9f688fc27109d24f8cd138bf1e14b479049cfb182b6c91fa087c519fa",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/baidu-token-util.js",
+    "destination": "legacy/wechat/miniprogram/utils/baidu-token-util.js",
+    "source_sha256": "357bff30fd4dc9e4241e5f1e4ae31b53bc91e867621807e5f43b478e54f297a3",
+    "published_sha256": "357bff30fd4dc9e4241e5f1e4ae31b53bc91e867621807e5f43b478e54f297a3",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/check-permission-util.js",
+    "destination": "legacy/wechat/miniprogram/utils/check-permission-util.js",
+    "source_sha256": "05f8115cddd505644fede1418b9b037d16b260d020711983e567571a1f5cefab",
+    "published_sha256": "05f8115cddd505644fede1418b9b037d16b260d020711983e567571a1f5cefab",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-search.js",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-search.js",
+    "source_sha256": "a6f31a4ba1adf294b93c9a328ccbf2a12b8ddb1fea4d12e241754c1bb1acb054",
+    "published_sha256": "a6f31a4ba1adf294b93c9a328ccbf2a12b8ddb1fea4d12e241754c1bb1acb054",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-sort/garbage-categroy.js",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-sort/garbage-categroy.js",
+    "source_sha256": "ff8f8692448645ba6e2993a0a3f8b82ba05fed4066142f3b5365493a42966d02",
+    "published_sha256": "ff8f8692448645ba6e2993a0a3f8b82ba05fed4066142f3b5365493a42966d02",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-sort/garbage-sort-data.js",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-sort/garbage-sort-data.js",
+    "source_sha256": "39ba7a686236ab15005ad1afd669922bf00e442acdca6d224db639ad36f5cdd1",
+    "published_sha256": "39ba7a686236ab15005ad1afd669922bf00e442acdca6d224db639ad36f5cdd1",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-sort/garbage-sort.js",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-sort/garbage-sort.js",
+    "source_sha256": "25d0e69747ee94fd3f967ac1cd43509c44511d6decd4335238fbd081251fb471",
+    "published_sha256": "25d0e69747ee94fd3f967ac1cd43509c44511d6decd4335238fbd081251fb471",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-sort/garbage-sort.wxml",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-sort/garbage-sort.wxml",
+    "source_sha256": "ceb21b7e5dc862a2db4b43954ac0f392373d6e2556b5b3e7083425f3a4011039",
+    "published_sha256": "ceb21b7e5dc862a2db4b43954ac0f392373d6e2556b5b3e7083425f3a4011039",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/garbage-sort/garbage-sort.wxss",
+    "destination": "legacy/wechat/miniprogram/utils/garbage-sort/garbage-sort.wxss",
+    "source_sha256": "38db589d1ef6923d48458c774bef604d34512f8b6cfacd84a25e8bf45c51cde4",
+    "published_sha256": "38db589d1ef6923d48458c774bef604d34512f8b6cfacd84a25e8bf45c51cde4",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/http.js",
+    "destination": "legacy/wechat/miniprogram/utils/http.js",
+    "source_sha256": "ca0665c40567fb9233cf1a914ac36472327b1e2351622137e7c5c05e4d5dccdb",
+    "published_sha256": "ca0665c40567fb9233cf1a914ac36472327b1e2351622137e7c5c05e4d5dccdb",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/map.js",
+    "destination": "legacy/wechat/miniprogram/utils/map.js",
+    "source_sha256": "25a14a9cd59a28650907f753ef4750c665a365e5d1d16f6a0e6adb4e4c22f8ab",
+    "published_sha256": "25a14a9cd59a28650907f753ef4750c665a365e5d1d16f6a0e6adb4e4c22f8ab",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/md5.js",
+    "destination": "legacy/wechat/miniprogram/utils/md5.js",
+    "source_sha256": "016d8258feb63d7c9a0413ea123831610d37f54ec1daaaf9002b9d2ee2c0b9e3",
+    "published_sha256": "016d8258feb63d7c9a0413ea123831610d37f54ec1daaaf9002b9d2ee2c0b9e3",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/strings.js",
+    "destination": "legacy/wechat/miniprogram/utils/strings.js",
+    "source_sha256": "1cbf866785d8b4d14311a440865805300e822efa404a7d6f0d4138b8d3bf76aa",
+    "published_sha256": "1cbf866785d8b4d14311a440865805300e822efa404a7d6f0d4138b8d3bf76aa",
+    "sanitized": false
+  },
+  {
+    "source": "miniprogram/utils/util.js",
+    "destination": "legacy/wechat/miniprogram/utils/util.js",
+    "source_sha256": "9cf390397055318f83598b2b6821e7e04b796d2edbd8152525766f237e5c9014",
+    "published_sha256": "9cf390397055318f83598b2b6821e7e04b796d2edbd8152525766f237e5c9014",
+    "sanitized": false
+  },
+  {
+    "source": "project.config.json",
+    "destination": "legacy/wechat/project.config.json",
+    "source_sha256": "40096f4e7cd1df6f7d8f951cd9d51ea1885bd01caac0db79bef97011cecd2311",
+    "published_sha256": "40096f4e7cd1df6f7d8f951cd9d51ea1885bd01caac0db79bef97011cecd2311",
+    "sanitized": false
+  }
+]

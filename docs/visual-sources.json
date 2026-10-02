@@ -1,0 +1,106 @@
+[
+  {
+    "source": "Jinxiao Wan final report, embedded image2",
+    "destination": "web/assets/requirements.jpg",
+    "caption": "Requirement analysis",
+    "source_sha256": "23f729b86e803abeb56f60ed8e7188afe7f3081eae66bacc2607c12962b6c8d5",
+    "published_sha256": "d6a4d6710ef8bbab468dbab2132cb796d92c4bb1d2c3568b029660df2044728a",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image3",
+    "destination": "web/assets/original-game.jpg",
+    "caption": "Original game start screen",
+    "source_sha256": "e76b94e6e1ee0879f0770debae78f0ac9bfdb9a0237aba9e2c9df9f6163ab859",
+    "published_sha256": "7ac331cc505c624813bca09c57034684b3d496f7ebd3ac2cc5b8ee9210a90ef1",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image4",
+    "destination": "web/assets/original-camera.jpg",
+    "caption": "Original photo screen",
+    "source_sha256": "fbb8723dbf2849aa194a8164681fac72d293c808aea38e076d36da46dfac08e1",
+    "published_sha256": "c62b85c23ae4b6cd4f84e93a0e9fff605847a17e484188a7aedb7dd428647a02",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image5",
+    "destination": "web/assets/original-categories.jpg",
+    "caption": "Original categories",
+    "source_sha256": "9dcaee5f9488598a3f55a72203942b99fa23e428d037bbb2cf92ba7d20460b18",
+    "published_sha256": "7e4688c6ec9fc492541c836b997c4ff1e5a1cdb8a6774a8ab9ca746b172aecc1",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image11",
+    "destination": "web/assets/original-correct.jpg",
+    "caption": "Original correct-answer feedback",
+    "source_sha256": "13aeb87a6fb108ecabe5adaafbcd5a15d478386cd1b52f81c3b4f0193a416405",
+    "published_sha256": "5519b2f40600a6fe5d253bf118008dfbe018723edc5cbe8191003b392dc3d1d3",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image12",
+    "destination": "web/assets/original-wrong.jpg",
+    "caption": "Original wrong-answer feedback",
+    "source_sha256": "372a6120890bc96b34e2c2ab3222a52afe46087a7430119b250834b8495a6955",
+    "published_sha256": "271c31c29726a8b7fb3c09374fdd54c00b6686ef6568007cb2abad6dd67e2868",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image13",
+    "destination": "web/assets/original-library.jpg",
+    "caption": "Original recycling library",
+    "source_sha256": "bf136ededabb23c35300a487236cbea0ab05901d9746d78ef612840699b4cc4c",
+    "published_sha256": "d82e64bd37c381e7136ccf519897f2f6d1f13e7e37855000bdf2c623a05fc595",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image14",
+    "destination": "web/assets/original-search.jpg",
+    "caption": "Original search results",
+    "source_sha256": "9672e6d83499a245c13b197ec83b7f1b210f88878c18d95e20201c4ee22fd45a",
+    "published_sha256": "abdffea2884114c3178c9952a7e540aa98b1445f6229ffc90faa8f82aa7abd2d",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image20",
+    "destination": "web/assets/recognition-cup.jpg",
+    "caption": "Paper cup recognition test",
+    "source_sha256": "09b20d974c9bb51d32b53e84936e74c389d4f5fed9ad344f4584502948c1d8bf",
+    "published_sha256": "4f3fdf276ffeffb3c0d9cb318f7f52c6deb302415f384421444748250064bb33",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image21",
+    "destination": "web/assets/recognition-tissue.jpg",
+    "caption": "Tissue recognition test",
+    "source_sha256": "0941adfea70e9358ebb1dc0f2ba6dc30ab43195126385f710c773086662aefc6",
+    "published_sha256": "78b21ed6a0c9545370dd40dd11989f7e1d0ad6db24c0b91cfcd02605ad69e92c",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image23",
+    "destination": "web/assets/cup-results.jpg",
+    "caption": "Paper cup classification results",
+    "source_sha256": "81a4cf808c05b6ca25e522fec17929425725effa8d10ebd46758caf03436176c",
+    "published_sha256": "5020c67dea04cccbe5817a2d162e4e32283e2292737b0aa6bddbb3264749ceac",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image24",
+    "destination": "web/assets/yellow-tissue.jpg",
+    "caption": "Yellow tissue recognition limitation",
+    "source_sha256": "434c40bfd365325306fbf6791fa8ac78efc1afb6426e95702515404edecd8520",
+    "published_sha256": "b45729c4b4f5ea33cc336f9af845f0420cc80e3260be53f8d31373406c42d8ad",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  },
+  {
+    "source": "Jinxiao Wan final report, embedded image25",
+    "destination": "web/assets/background-error.jpg",
+    "caption": "Background recognition limitation",
+    "source_sha256": "af7e46d65cdb2cf4c959246b21d0b314ad4a47aa33259af401bddfeb7fe6e20b",
+    "published_sha256": "3bd468b7132544df6df879710dbf85e5bd1a70be20fe2b98e7b9397a828f3aa9",
+    "transform": "JPEG conversion, maximum 1300 x 1600, quality 88"
+  }
+]

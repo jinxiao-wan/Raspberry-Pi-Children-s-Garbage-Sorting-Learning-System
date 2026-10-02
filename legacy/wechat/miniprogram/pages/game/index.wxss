@@ -1,0 +1,103 @@
+/**index.wxss**/
+page{
+  overflow: hidden;
+} 
+.content
+{
+  width:100%;
+  overflow: hidden;
+}
+.main
+{
+  width:100%; 
+  background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Fback_pic%2F04%2F99%2F59%2F495941420e1301e.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640875565&t=6e3abc41306bee0f1dc5c760527be6a6) no-repeat;
+  background-size:100%;
+}
+.waste 
+{
+  position: absolute; 
+  width:80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color:  #fff;
+  border:1px solid  darkseagreen
+ 
+   
+}
+.waste image
+{
+  width:100%;
+  height:100%; 
+  position: absolute; 
+   border-radius: 50%
+} 
+
+.wastelist 
+{
+  position: fixed;
+  bottom: 10px;
+  height: 220px;
+  width:100%;
+ 
+} 
+.wastelist .wastetype
+{
+  width:25%;
+  float: left; 
+  height: 160px;
+}
+
+.wastelist .wastetype .wasteclass
+{
+  height: 100%;
+  width:100%;
+}
+
+.wastelist .wastetype .wasteclass image
+{ 
+  width:100%;
+  height:100%;
+}
+ 
+ 
+.mark
+{
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  position: fixed;
+  background: gray;
+  filter:alpha(Opacity=80);-moz-opacity:0.5;opacity: 0.5;
+  z-index: 999998
+}
+
+.begin
+{
+  position: fixed;
+  top:100px;
+  left:100px;
+  width:250px;
+  height:120px;
+  border-radius: 30px 30px;
+  z-index: 999999
+}
+.begin image
+{
+  width:100%;
+  height: 100%;
+  border-radius: 38px;
+}
+
+.socre
+{
+  position: relative;
+  margin:10px auto;
+  width:100px;
+  background-color:  royalblue;
+  border:1px #fff solid;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  border-radius: 20px; 
+}

@@ -1,0 +1,14 @@
+{
+  "name": "little-sorters",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server/server.mjs",
+    "test": "node --test tests/core.test.mjs tests/server.test.mjs",
+    "test:browser": "node tests/browser.cjs"
+  }
+}

@@ -1,0 +1,29 @@
+<view class="content" style="height:{{wh}}px;">
+  <movable-area style="height:{{wh}}px;width: 100%; overflow: hidden;">
+    <view class="main" style="height:{{wh}}px;">
+      <movable-view direction="all" class="waste" x="{{wleft}}" y="{{wtop}}" style="display:{{wstyle}}" damping='20'
+        bindtouchend='dragbindtouchend'>
+        <!--bindchange='dragbindchange'  -->
+        <image src="https://card.doosuns.cn/saas/public/waste_sorting/images/1/{{wasteicon}}"></image>
+      </movable-view>
+
+      <view class="wastelist">
+        <view class="socre">得分：{{socre}}</view>
+        <view class='clear blank10'></view>
+
+        <view class="wastetype" wx:for="{{wastetypelist}}" wx:for-item="item" wx:for-index="index" data-id="{{item.id}}"
+          bindtap='doanswer'>
+          <view class="wasteclass" style="background:url({{item.icon}}) no-repeat;background-size:100% 100%">
+            </view>
+        </view>
+      </view>
+    </view>
+
+    <view class="mark" style="display:{{mstyle}}" bindtap='begingame'>
+    </view>
+    <view class="begin" bindtap='begingame' style="display:{{mstyle}};left:{{beginleft}}px">
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.shejihz.com%2Fwp-content%2Fuploads%2Fcx_img%2F549%2F8e374c267dd5d6430d3700bfa13d6604-560x360-1-0.jpg&refer=http%3A%2F%2Fwww.shejihz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640876776&t=8916cf2ce417e1360a1db1f2e73cc8e1"></image>
+    </view>
+    <audio src="{{src}}" id="myAudio" bindended="funended" binderror="funerror" bindtimeupdate="funtimeupdate"></audio>
+  </movable-area>
+</view>
